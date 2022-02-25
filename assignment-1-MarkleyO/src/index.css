@@ -1,0 +1,12 @@
+.col{
+	float: left;
+	width: 45%;
+	border-style: solid;
+	border-color: black;
+}
+
+.row: after {
+	content: "";
+	display: table;
+	clear: both;
+}
