@@ -1,0 +1,20 @@
+nav {
+    width: 100%;
+    float: left;
+    list-style: none;
+}
+nav li {
+    float: left;
+}
+nav ul {
+    list-style-type: none;
+}
+
+a:-webkit-any-link {
+    display: block;
+    padding: 8px 15px;
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    list-style-type: none;
+}

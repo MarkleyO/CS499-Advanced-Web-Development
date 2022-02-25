@@ -1,0 +1,1047 @@
+{
+  "1": {
+    "name": "Tatooine",
+    "rotation_period": "23",
+    "orbital_period": "304",
+    "diameter": "10465",
+    "climate": "arid",
+    "gravity": "1 standard",
+    "terrain": "desert",
+    "surface_water": "1",
+    "population": "200000",
+    "residents": [
+      "/people/1/",
+      "/people/2/",
+      "/people/4/",
+      "/people/6/",
+      "/people/7/",
+      "/people/8/",
+      "/people/9/",
+      "/people/11/",
+      "/people/43/",
+      "/people/62/"
+    ],
+    "films": [
+      "/films/5/",
+      "/films/4/",
+      "/films/6/",
+      "/films/3/",
+      "/films/1/"
+    ],
+    "url": "/planets/1/"
+  },
+  "2": {
+    "name": "Alderaan",
+    "rotation_period": "24",
+    "orbital_period": "364",
+    "diameter": "12500",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grasslands, mountains",
+    "surface_water": "40",
+    "population": "2000000000",
+    "residents": [
+      "/people/5/",
+      "/people/68/",
+      "/people/81/"
+    ],
+    "films": [
+      "/films/6/",
+      "/films/1/"
+    ],
+    "url": "/planets/2/"
+  },
+  "3": {
+    "name": "Yavin IV",
+    "rotation_period": "24",
+    "orbital_period": "4818",
+    "diameter": "10200",
+    "climate": "temperate, tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, rainforests",
+    "surface_water": "8",
+    "population": "1000",
+    "residents": [],
+    "films": [
+      "/films/1/"
+    ],
+    "url": "/planets/3/"
+  },
+  "4": {
+    "name": "Hoth",
+    "rotation_period": "23",
+    "orbital_period": "549",
+    "diameter": "7200",
+    "climate": "frozen",
+    "gravity": "1.1 standard",
+    "terrain": "tundra, ice caves, mountain ranges",
+    "surface_water": "100",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      "/films/2/"
+    ],
+    "url": "/planets/4/"
+  },
+  "5": {
+    "name": "Dagobah",
+    "rotation_period": "23",
+    "orbital_period": "341",
+    "diameter": "8900",
+    "climate": "murky",
+    "gravity": "N/A",
+    "terrain": "swamp, jungles",
+    "surface_water": "8",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      "/films/2/",
+      "/films/6/",
+      "/films/3/"
+    ],
+    "url": "/planets/5/"
+  },
+  "6": {
+    "name": "Bespin",
+    "rotation_period": "12",
+    "orbital_period": "5110",
+    "diameter": "118000",
+    "climate": "temperate",
+    "gravity": "1.5 (surface), 1 standard (Cloud City)",
+    "terrain": "gas giant",
+    "surface_water": "0",
+    "population": "6000000",
+    "residents": [
+      "/people/26/"
+    ],
+    "films": [
+      "/films/2/"
+    ],
+    "url": "/planets/6/"
+  },
+  "7": {
+    "name": "Endor",
+    "rotation_period": "18",
+    "orbital_period": "402",
+    "diameter": "4900",
+    "climate": "temperate",
+    "gravity": "0.85 standard",
+    "terrain": "forests, mountains, lakes",
+    "surface_water": "8",
+    "population": "30000000",
+    "residents": [
+      "/people/30/"
+    ],
+    "films": [
+      "/films/3/"
+    ],
+    "url": "/planets/7/"
+  },
+  "8": {
+    "name": "Naboo",
+    "rotation_period": "26",
+    "orbital_period": "312",
+    "diameter": "12120",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grassy hills, swamps, forests, mountains",
+    "surface_water": "12",
+    "population": "4500000000",
+    "residents": [
+      "/people/3/",
+      "/people/21/",
+      "/people/36/",
+      "/people/37/",
+      "/people/38/",
+      "/people/39/",
+      "/people/42/",
+      "/people/60/",
+      "/people/61/",
+      "/people/66/",
+      "/people/35/"
+    ],
+    "films": [
+      "/films/5/",
+      "/films/4/",
+      "/films/6/",
+      "/films/3/"
+    ],
+    "url": "/planets/8/"
+  },
+  "9": {
+    "name": "Coruscant",
+    "rotation_period": "24",
+    "orbital_period": "368",
+    "diameter": "12240",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "cityscape, mountains",
+    "surface_water": "unknown",
+    "population": "1000000000000",
+    "residents": [
+      "/people/34/",
+      "/people/55/",
+      "/people/74/"
+    ],
+    "films": [
+      "/films/5/",
+      "/films/4/",
+      "/films/6/",
+      "/films/3/"
+    ],
+    "url": "/planets/9/"
+  },
+  "10": {
+    "name": "Kamino",
+    "rotation_period": "27",
+    "orbital_period": "463",
+    "diameter": "19720",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "ocean",
+    "surface_water": "100",
+    "population": "1000000000",
+    "residents": [
+      "/people/22/",
+      "/people/72/",
+      "/people/73/"
+    ],
+    "films": [
+      "/films/5/"
+    ],
+    "url": "/planets/10/"
+  },
+  "11": {
+    "name": "Geonosis",
+    "rotation_period": "30",
+    "orbital_period": "256",
+    "diameter": "11370",
+    "climate": "temperate, arid",
+    "gravity": "0.9 standard",
+    "terrain": "rock, desert, mountain, barren",
+    "surface_water": "5",
+    "population": "100000000000",
+    "residents": [
+      "/people/63/"
+    ],
+    "films": [
+      "/films/5/"
+    ],
+    "url": "/planets/11/"
+  },
+  "12": {
+    "name": "Utapau",
+    "rotation_period": "27",
+    "orbital_period": "351",
+    "diameter": "12900",
+    "climate": "temperate, arid, windy",
+    "gravity": "1 standard",
+    "terrain": "scrublands, savanna, canyons, sinkholes",
+    "surface_water": "0.9",
+    "population": "95000000",
+    "residents": [
+      "/people/83/"
+    ],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/12/"
+  },
+  "13": {
+    "name": "Mustafar",
+    "rotation_period": "36",
+    "orbital_period": "412",
+    "diameter": "4200",
+    "climate": "hot",
+    "gravity": "1 standard",
+    "terrain": "volcanoes, lava rivers, mountains, caves",
+    "surface_water": "0",
+    "population": "20000",
+    "residents": [],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/13/"
+  },
+  "14": {
+    "name": "Kashyyyk",
+    "rotation_period": "26",
+    "orbital_period": "381",
+    "diameter": "12765",
+    "climate": "tropical",
+    "gravity": "1 standard",
+    "terrain": "jungle, forests, lakes, rivers",
+    "surface_water": "60",
+    "population": "45000000",
+    "residents": [
+      "/people/13/",
+      "/people/80/"
+    ],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/14/"
+  },
+  "15": {
+    "name": "Polis Massa",
+    "rotation_period": "24",
+    "orbital_period": "590",
+    "diameter": "0",
+    "climate": "artificial temperate ",
+    "gravity": "0.56 standard",
+    "terrain": "airless asteroid",
+    "surface_water": "0",
+    "population": "1000000",
+    "residents": [],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/15/"
+  },
+  "16": {
+    "name": "Mygeeto",
+    "rotation_period": "12",
+    "orbital_period": "167",
+    "diameter": "10088",
+    "climate": "frigid",
+    "gravity": "1 standard",
+    "terrain": "glaciers, mountains, ice canyons",
+    "surface_water": "unknown",
+    "population": "19000000",
+    "residents": [],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/16/"
+  },
+  "17": {
+    "name": "Felucia",
+    "rotation_period": "34",
+    "orbital_period": "231",
+    "diameter": "9100",
+    "climate": "hot, humid",
+    "gravity": "0.75 standard",
+    "terrain": "fungus forests",
+    "surface_water": "unknown",
+    "population": "8500000",
+    "residents": [],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/17/"
+  },
+  "18": {
+    "name": "Cato Neimoidia",
+    "rotation_period": "25",
+    "orbital_period": "278",
+    "diameter": "0",
+    "climate": "temperate, moist",
+    "gravity": "1 standard",
+    "terrain": "mountains, fields, forests, rock arches",
+    "surface_water": "unknown",
+    "population": "10000000",
+    "residents": [
+      "/people/33/"
+    ],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/18/"
+  },
+  "19": {
+    "name": "Saleucami",
+    "rotation_period": "26",
+    "orbital_period": "392",
+    "diameter": "14920",
+    "climate": "hot",
+    "gravity": "unknown",
+    "terrain": "caves, desert, mountains, volcanoes",
+    "surface_water": "unknown",
+    "population": "1400000000",
+    "residents": [],
+    "films": [
+      "/films/6/"
+    ],
+    "url": "/planets/19/"
+  },
+  "20": {
+    "name": "Stewjon",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "0",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "grass",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/10/"
+    ],
+    "films": [],
+    "url": "/planets/20/"
+  },
+  "21": {
+    "name": "Eriadu",
+    "rotation_period": "24",
+    "orbital_period": "360",
+    "diameter": "13490",
+    "climate": "polluted",
+    "gravity": "1 standard",
+    "terrain": "cityscape",
+    "surface_water": "unknown",
+    "population": "22000000000",
+    "residents": [
+      "/people/12/"
+    ],
+    "films": [],
+    "url": "/planets/21/"
+  },
+  "22": {
+    "name": "Corellia",
+    "rotation_period": "25",
+    "orbital_period": "329",
+    "diameter": "11000",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "plains, urban, hills, forests",
+    "surface_water": "70",
+    "population": "3000000000",
+    "residents": [
+      "/people/14/",
+      "/people/18/"
+    ],
+    "films": [],
+    "url": "/planets/22/"
+  },
+  "23": {
+    "name": "Rodia",
+    "rotation_period": "29",
+    "orbital_period": "305",
+    "diameter": "7549",
+    "climate": "hot",
+    "gravity": "1 standard",
+    "terrain": "jungles, oceans, urban, swamps",
+    "surface_water": "60",
+    "population": "1300000000",
+    "residents": [
+      "/people/15/"
+    ],
+    "films": [],
+    "url": "/planets/23/"
+  },
+  "24": {
+    "name": "Nal Hutta",
+    "rotation_period": "87",
+    "orbital_period": "413",
+    "diameter": "12150",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "urban, oceans, swamps, bogs",
+    "surface_water": "unknown",
+    "population": "7000000000",
+    "residents": [
+      "/people/16/"
+    ],
+    "films": [],
+    "url": "/planets/24/"
+  },
+  "25": {
+    "name": "Dantooine",
+    "rotation_period": "25",
+    "orbital_period": "378",
+    "diameter": "9830",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "oceans, savannas, mountains, grasslands",
+    "surface_water": "unknown",
+    "population": "1000",
+    "residents": [],
+    "films": [],
+    "url": "/planets/25/"
+  },
+  "26": {
+    "name": "Bestine IV",
+    "rotation_period": "26",
+    "orbital_period": "680",
+    "diameter": "6400",
+    "climate": "temperate",
+    "gravity": "unknown",
+    "terrain": "rocky islands, oceans",
+    "surface_water": "98",
+    "population": "62000000",
+    "residents": [
+      "/people/19/"
+    ],
+    "films": [],
+    "url": "/planets/26/"
+  },
+  "27": {
+    "name": "Ord Mantell",
+    "rotation_period": "26",
+    "orbital_period": "334",
+    "diameter": "14050",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "terrain": "plains, seas, mesas",
+    "surface_water": "10",
+    "population": "4000000000",
+    "residents": [],
+    "films": [
+      "/films/2/"
+    ],
+    "url": "/planets/27/"
+  },
+  "28": {
+    "name": "unknown",
+    "rotation_period": "0",
+    "orbital_period": "0",
+    "diameter": "0",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/20/",
+      "/people/23/",
+      "/people/29/",
+      "/people/32/",
+      "/people/75/",
+      "/people/84/",
+      "/people/85/",
+      "/people/86/",
+      "/people/87/",
+      "/people/88/"
+    ],
+    "films": [],
+    "url": "/planets/28/"
+  },
+  "29": {
+    "name": "Trandosha",
+    "rotation_period": "25",
+    "orbital_period": "371",
+    "diameter": "0",
+    "climate": "arid",
+    "gravity": "0.62 standard",
+    "terrain": "mountains, seas, grasslands, deserts",
+    "surface_water": "unknown",
+    "population": "42000000",
+    "residents": [
+      "/people/24/"
+    ],
+    "films": [],
+    "url": "/planets/29/"
+  },
+  "30": {
+    "name": "Socorro",
+    "rotation_period": "20",
+    "orbital_period": "326",
+    "diameter": "0",
+    "climate": "arid",
+    "gravity": "1 standard",
+    "terrain": "deserts, mountains",
+    "surface_water": "unknown",
+    "population": "300000000",
+    "residents": [
+      "/people/25/"
+    ],
+    "films": [],
+    "url": "/planets/30/"
+  },
+  "31": {
+    "name": "Mon Cala",
+    "rotation_period": "21",
+    "orbital_period": "398",
+    "diameter": "11030",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "oceans, reefs, islands",
+    "surface_water": "100",
+    "population": "27000000000",
+    "residents": [
+      "/people/27/"
+    ],
+    "films": [],
+    "url": "/planets/31/"
+  },
+  "32": {
+    "name": "Chandrila",
+    "rotation_period": "20",
+    "orbital_period": "368",
+    "diameter": "13500",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "plains, forests",
+    "surface_water": "40",
+    "population": "1200000000",
+    "residents": [
+      "/people/28/"
+    ],
+    "films": [],
+    "url": "/planets/32/"
+  },
+  "33": {
+    "name": "Sullust",
+    "rotation_period": "20",
+    "orbital_period": "263",
+    "diameter": "12780",
+    "climate": "superheated",
+    "gravity": "1",
+    "terrain": "mountains, volcanoes, rocky deserts",
+    "surface_water": "5",
+    "population": "18500000000",
+    "residents": [
+      "/people/31/"
+    ],
+    "films": [],
+    "url": "/planets/33/"
+  },
+  "34": {
+    "name": "Toydaria",
+    "rotation_period": "21",
+    "orbital_period": "184",
+    "diameter": "7900",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "swamps, lakes",
+    "surface_water": "unknown",
+    "population": "11000000",
+    "residents": [
+      "/people/40/"
+    ],
+    "films": [],
+    "url": "/planets/34/"
+  },
+  "35": {
+    "name": "Malastare",
+    "rotation_period": "26",
+    "orbital_period": "201",
+    "diameter": "18880",
+    "climate": "arid, temperate, tropical",
+    "gravity": "1.56",
+    "terrain": "swamps, deserts, jungles, mountains",
+    "surface_water": "unknown",
+    "population": "2000000000",
+    "residents": [
+      "/people/41/"
+    ],
+    "films": [],
+    "url": "/planets/35/"
+  },
+  "36": {
+    "name": "Dathomir",
+    "rotation_period": "24",
+    "orbital_period": "491",
+    "diameter": "10480",
+    "climate": "temperate",
+    "gravity": "0.9",
+    "terrain": "forests, deserts, savannas",
+    "surface_water": "unknown",
+    "population": "5200",
+    "residents": [
+      "/people/44/"
+    ],
+    "films": [],
+    "url": "/planets/36/"
+  },
+  "37": {
+    "name": "Ryloth",
+    "rotation_period": "30",
+    "orbital_period": "305",
+    "diameter": "10600",
+    "climate": "temperate, arid, subartic",
+    "gravity": "1",
+    "terrain": "mountains, valleys, deserts, tundra",
+    "surface_water": "5",
+    "population": "1500000000",
+    "residents": [
+      "/people/45/",
+      "/people/46/"
+    ],
+    "films": [],
+    "url": "/planets/37/"
+  },
+  "38": {
+    "name": "Aleen Minor",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/47/"
+    ],
+    "films": [],
+    "url": "/planets/38/"
+  },
+  "39": {
+    "name": "Vulpter",
+    "rotation_period": "22",
+    "orbital_period": "391",
+    "diameter": "14900",
+    "climate": "temperate, artic",
+    "gravity": "1",
+    "terrain": "urban, barren",
+    "surface_water": "unknown",
+    "population": "421000000",
+    "residents": [
+      "/people/48/"
+    ],
+    "films": [],
+    "url": "/planets/39/"
+  },
+  "40": {
+    "name": "Troiken",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "desert, tundra, rainforests, mountains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/49/"
+    ],
+    "films": [],
+    "url": "/planets/40/"
+  },
+  "41": {
+    "name": "Tund",
+    "rotation_period": "48",
+    "orbital_period": "1770",
+    "diameter": "12190",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "barren, ash",
+    "surface_water": "unknown",
+    "population": "0",
+    "residents": [
+      "/people/50/"
+    ],
+    "films": [],
+    "url": "/planets/41/"
+  },
+  "42": {
+    "name": "Haruun Kal",
+    "rotation_period": "25",
+    "orbital_period": "383",
+    "diameter": "10120",
+    "climate": "temperate",
+    "gravity": "0.98",
+    "terrain": "toxic cloudsea, plateaus, volcanoes",
+    "surface_water": "unknown",
+    "population": "705300",
+    "residents": [
+      "/people/51/"
+    ],
+    "films": [],
+    "url": "/planets/42/"
+  },
+  "43": {
+    "name": "Cerea",
+    "rotation_period": "27",
+    "orbital_period": "386",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "verdant",
+    "surface_water": "20",
+    "population": "450000000",
+    "residents": [
+      "/people/52/"
+    ],
+    "films": [],
+    "url": "/planets/43/"
+  },
+  "44": {
+    "name": "Glee Anselm",
+    "rotation_period": "33",
+    "orbital_period": "206",
+    "diameter": "15600",
+    "climate": "tropical, temperate",
+    "gravity": "1",
+    "terrain": "lakes, islands, swamps, seas",
+    "surface_water": "80",
+    "population": "500000000",
+    "residents": [
+      "/people/53/"
+    ],
+    "films": [],
+    "url": "/planets/44/"
+  },
+  "45": {
+    "name": "Iridonia",
+    "rotation_period": "29",
+    "orbital_period": "413",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "rocky canyons, acid pools",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/54/"
+    ],
+    "films": [],
+    "url": "/planets/45/"
+  },
+  "46": {
+    "name": "Tholoth",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [],
+    "films": [],
+    "url": "/planets/46/"
+  },
+  "47": {
+    "name": "Iktotch",
+    "rotation_period": "22",
+    "orbital_period": "481",
+    "diameter": "unknown",
+    "climate": "arid, rocky, windy",
+    "gravity": "1",
+    "terrain": "rocky",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/56/"
+    ],
+    "films": [],
+    "url": "/planets/47/"
+  },
+  "48": {
+    "name": "Quermia",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/57/"
+    ],
+    "films": [],
+    "url": "/planets/48/"
+  },
+  "49": {
+    "name": "Dorin",
+    "rotation_period": "22",
+    "orbital_period": "409",
+    "diameter": "13400",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/58/"
+    ],
+    "films": [],
+    "url": "/planets/49/"
+  },
+  "50": {
+    "name": "Champala",
+    "rotation_period": "27",
+    "orbital_period": "318",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "oceans, rainforests, plateaus",
+    "surface_water": "unknown",
+    "population": "3500000000",
+    "residents": [
+      "/people/59/"
+    ],
+    "films": [],
+    "url": "/planets/50/"
+  },
+  "51": {
+    "name": "Mirial",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/64/",
+      "/people/65/"
+    ],
+    "films": [],
+    "url": "/planets/51/"
+  },
+  "52": {
+    "name": "Serenno",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "rainforests, rivers, mountains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/67/"
+    ],
+    "films": [],
+    "url": "/planets/52/"
+  },
+  "53": {
+    "name": "Concord Dawn",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "jungles, forests, deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/69/"
+    ],
+    "films": [],
+    "url": "/planets/53/"
+  },
+  "54": {
+    "name": "Zolan",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/70/"
+    ],
+    "films": [],
+    "url": "/planets/54/"
+  },
+  "55": {
+    "name": "Ojom",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "frigid",
+    "gravity": "unknown",
+    "terrain": "oceans, glaciers",
+    "surface_water": "100",
+    "population": "500000000",
+    "residents": [
+      "/people/71/"
+    ],
+    "films": [],
+    "url": "/planets/55/"
+  },
+  "56": {
+    "name": "Skako",
+    "rotation_period": "27",
+    "orbital_period": "384",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "urban, vines",
+    "surface_water": "unknown",
+    "population": "500000000000",
+    "residents": [
+      "/people/76/"
+    ],
+    "films": [],
+    "url": "/planets/56/"
+  },
+  "57": {
+    "name": "Muunilinst",
+    "rotation_period": "28",
+    "orbital_period": "412",
+    "diameter": "13800",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "plains, forests, hills, mountains",
+    "surface_water": "25",
+    "population": "5000000000",
+    "residents": [
+      "/people/77/"
+    ],
+    "films": [],
+    "url": "/planets/57/"
+  },
+  "58": {
+    "name": "Shili",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "temperate",
+    "gravity": "1",
+    "terrain": "cities, savannahs, seas, plains",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/78/"
+    ],
+    "films": [],
+    "url": "/planets/58/"
+  },
+  "59": {
+    "name": "Kalee",
+    "rotation_period": "23",
+    "orbital_period": "378",
+    "diameter": "13850",
+    "climate": "arid, temperate, tropical",
+    "gravity": "1",
+    "terrain": "rainforests, cliffs, canyons, seas",
+    "surface_water": "unknown",
+    "population": "4000000000",
+    "residents": [
+      "/people/79/"
+    ],
+    "films": [],
+    "url": "/planets/59/"
+  },
+  "60": {
+    "name": "Umbara",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "unknown",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [
+      "/people/82/"
+    ],
+    "films": [],
+    "url": "/planets/60/"
+  },
+  "61": {
+    "name": "Jakku",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": "unknown",
+    "gravity": "unknown",
+    "terrain": "deserts",
+    "surface_water": "unknown",
+    "population": "unknown",
+    "residents": [],
+    "films": [
+      "/films/7/"
+    ],
+    "url": "/planets/61/"
+  }
+}
